@@ -1,0 +1,58 @@
+2026-07-04 18:59:30,029 [translate_video] Using font: /usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+2026-07-04 18:59:30,103 [translate_video] Video: {'width': 2026, 'height': 936, 'duration': 270.4, 'fps': 5.0}
+2026-07-04 18:59:30,103 [translate_video] Reusing saved OCR results...
+2026-07-04 18:59:30,106 [translate_video] Loaded 604 OCR results, 262 translations
+2026-07-04 18:59:30,106 [translate_video] Sampling background colors...
+2026-07-04 19:00:07,777 [translate_video] Sampled 485 background colors
+2026-07-04 19:00:07,856 [translate_video] Built 938 ffmpeg filters
+2026-07-04 19:00:07,856 [translate_video]   Filter 0: drawbox=x=770:y=332:w=532:h=132:color=0x000000:t=fill:enable='between(t,0.00,9.20)'...
+2026-07-04 19:00:07,856 [translate_video]   Filter 1: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Prison School':fontsize=48:fontcolor=wh...
+2026-07-04 19:00:07,856 [translate_video]   Filter 2: drawbox=x=349:y=457:w=1326:h=144:color=0x000000:t=fill:enable='between(t,0.00,9.20)'...
+2026-07-04 19:00:07,856 [translate_video]   Filter 3: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Video drawn by Akira Hiramoto':fontsize...
+2026-07-04 19:00:07,856 [translate_video]   Filter 4: drawbox=x=199:y=31:w=58:h=26:color=0x2b2b2b:t=fill:enable='between(t,6.80,13.20)'...
+2026-07-04 19:00:07,856 [translate_video]   Filter 5: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='So this is':fontsize=12:fontcolor=white...
+2026-07-04 19:00:07,856 [translate_video]   Filter 6: drawbox=x=1725:y=291:w=44:h=22:color=0x2b2b2b:t=fill:enable='between(t,6.80,13.20)'...
+2026-07-04 19:00:07,856 [translate_video]   Filter 7: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Layer':fontsize=12:fontcolor=white:bord...
+2026-07-04 19:00:07,856 [translate_video]   Filter 8: drawbox=x=1627:y=311:w=98:h=26:color=0x2b2b2b:t=fill:enable='between(t,6.80,13.20)'...
+2026-07-04 19:00:07,856 [translate_video]   Filter 9: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='November 21st・':fontsize=12:fontcolor=w...
+2026-07-04 19:00:07,856 [translate_video]   ... and 928 more
+2026-07-04 19:00:07,856 [translate_video] Multi-pass: 469 drawbox + 469 drawtext
+2026-07-04 19:00:07,856 [translate_video] Batching drawbox: 469 filters in batches
+2026-07-04 19:00:07,856 [translate_video] Batch 1: 80 filters
+2026-07-04 19:00:07,857 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:13,367 [translate_video] Rendered: /workspace/translated_part1.inpaint_batch0.mp4 (17.1 MB)
+2026-07-04 19:00:13,367 [translate_video] Batch 2: 80 filters
+2026-07-04 19:00:13,367 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:18,135 [translate_video] Rendered: /workspace/translated_part1.inpaint_batch80.mp4 (17.2 MB)
+2026-07-04 19:00:18,137 [translate_video] Batch 3: 80 filters
+2026-07-04 19:00:18,137 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:22,884 [translate_video] Rendered: /workspace/translated_part1.inpaint_batch160.mp4 (17.4 MB)
+2026-07-04 19:00:22,886 [translate_video] Batch 4: 80 filters
+2026-07-04 19:00:22,886 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:27,699 [translate_video] Rendered: /workspace/translated_part1.inpaint_batch240.mp4 (17.4 MB)
+2026-07-04 19:00:27,701 [translate_video] Batch 5: 80 filters
+2026-07-04 19:00:27,701 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:32,546 [translate_video] Rendered: /workspace/translated_part1.inpaint_batch320.mp4 (17.5 MB)
+2026-07-04 19:00:32,548 [translate_video] Batch 6: 69 filters
+2026-07-04 19:00:32,548 [translate_video] FFmpeg render: 69 filters
+2026-07-04 19:00:37,429 [translate_video] Rendered: /workspace/translated_part1.inpaint.mp4 (17.5 MB)
+2026-07-04 19:00:37,432 [translate_video] Batching drawtext: 469 filters in batches
+2026-07-04 19:00:37,432 [translate_video] Batch 1: 80 filters
+2026-07-04 19:00:37,432 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:42,462 [translate_video] Rendered: /workspace/translated_part1_batch0.mp4 (17.6 MB)
+2026-07-04 19:00:42,462 [translate_video] Batch 2: 80 filters
+2026-07-04 19:00:42,462 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:47,321 [translate_video] Rendered: /workspace/translated_part1_batch80.mp4 (17.6 MB)
+2026-07-04 19:00:47,323 [translate_video] Batch 3: 80 filters
+2026-07-04 19:00:47,323 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:52,385 [translate_video] Rendered: /workspace/translated_part1_batch160.mp4 (17.6 MB)
+2026-07-04 19:00:52,388 [translate_video] Batch 4: 80 filters
+2026-07-04 19:00:52,388 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:57,348 [translate_video] Rendered: /workspace/translated_part1_batch240.mp4 (17.5 MB)
+2026-07-04 19:00:57,351 [translate_video] Batch 5: 80 filters
+2026-07-04 19:00:57,351 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:01:02,285 [translate_video] Rendered: /workspace/translated_part1_batch320.mp4 (17.5 MB)
+2026-07-04 19:01:02,288 [translate_video] Batch 6: 69 filters
+2026-07-04 19:01:02,288 [translate_video] FFmpeg render: 69 filters
+2026-07-04 19:01:07,190 [translate_video] Rendered: /workspace/translated_part1.mp4 (17.5 MB)
+2026-07-04 19:01:07,194 [translate_video] SUCCESS! Translated video: /workspace/translated_part1.mp4

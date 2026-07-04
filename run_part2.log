@@ -1,0 +1,512 @@
+2026-07-04 19:02:46,578 [translate_video] Using font: /usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+2026-07-04 19:02:46,658 [translate_video] Video: {'width': 2026, 'height': 936, 'duration': 271.0, 'fps': 5.0}
+2026-07-04 19:02:48,972 [translate_video] Extracted 54 OCR frames
+2026-07-04 19:02:49,462 [translate_video] After dedup: 54 frames to OCR
+2026-07-04 19:02:51,773 [translate_video] Initializing EasyOCR reader...
+2026-07-04 19:02:54,497 [translate_video] Initializing manga-ocr engine...
+2026-07-04 19:02:54.497 | INFO     | manga_ocr.ocr:__init__:16 - Loading OCR model from kha-white/manga-ocr-base
+2026-07-04 19:02:55.735 | INFO     | manga_ocr.ocr:__init__:28 - Using CPU
+2026-07-04 19:02:56.292 | INFO     | manga_ocr.ocr:__init__:35 - OCR ready
+2026-07-04 19:02:56,292 [translate_video] OCR frame 1/54: ts=0.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:03:11,765 [translate_video] OCR frame 2/54: ts=5.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:03:26,906 [translate_video] OCR frame 3/54: ts=10.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:03:43,080 [translate_video] OCR frame 4/54: ts=15.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:03:59,213 [translate_video] OCR frame 5/54: ts=20.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:04:15,901 [translate_video] OCR frame 6/54: ts=25.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:04:31,504 [translate_video] OCR frame 7/54: ts=30.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:04:47,673 [translate_video] OCR frame 8/54: ts=35.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:05:02,552 [translate_video] OCR frame 9/54: ts=40.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:05:18,086 [translate_video] OCR frame 10/54: ts=45.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:05:34,657 [translate_video] OCR frame 11/54: ts=50.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:05:50,050 [translate_video] OCR frame 12/54: ts=55.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:06:05,461 [translate_video] OCR frame 13/54: ts=60.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:06:20,752 [translate_video] OCR frame 14/54: ts=65.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:06:36,702 [translate_video] OCR frame 15/54: ts=70.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:06:51,736 [translate_video] OCR frame 16/54: ts=75.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:07:06,871 [translate_video] OCR frame 17/54: ts=80.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:07:22,311 [translate_video] OCR frame 18/54: ts=85.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:07:37,135 [translate_video] OCR frame 19/54: ts=90.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:07:52,173 [translate_video] OCR frame 20/54: ts=95.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:08:08,054 [translate_video] OCR frame 21/54: ts=100.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:08:22,971 [translate_video] OCR frame 22/54: ts=105.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:08:38,111 [translate_video] OCR frame 23/54: ts=110.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:08:52,255 [translate_video] OCR frame 24/54: ts=115.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:09:07,408 [translate_video] OCR frame 25/54: ts=120.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:09:21,555 [translate_video] OCR frame 26/54: ts=125.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:09:36,520 [translate_video] OCR frame 27/54: ts=130.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:09:53,266 [translate_video] OCR frame 28/54: ts=135.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:10:08,021 [translate_video] OCR frame 29/54: ts=140.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:10:24,746 [translate_video] OCR frame 30/54: ts=145.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:10:41,436 [translate_video] OCR frame 31/54: ts=150.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:10:57,332 [translate_video] OCR frame 32/54: ts=155.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:11:12,471 [translate_video] OCR frame 33/54: ts=160.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:11:27,115 [translate_video] OCR frame 34/54: ts=165.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:11:42,739 [translate_video] OCR frame 35/54: ts=170.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:11:58,512 [translate_video] OCR frame 36/54: ts=175.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:12:13,730 [translate_video] OCR frame 37/54: ts=180.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:12:30,051 [translate_video] OCR frame 38/54: ts=185.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:12:45,316 [translate_video] OCR frame 39/54: ts=190.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:13:01,032 [translate_video] OCR frame 40/54: ts=195.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:13:16,231 [translate_video] OCR frame 41/54: ts=200.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:13:32,533 [translate_video] OCR frame 42/54: ts=205.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:13:48,740 [translate_video] OCR frame 43/54: ts=210.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:14:02,552 [translate_video] OCR frame 44/54: ts=215.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:14:18,120 [translate_video] OCR frame 45/54: ts=220.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:14:32,350 [translate_video] OCR frame 46/54: ts=225.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:14:45,584 [translate_video] OCR frame 47/54: ts=230.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:15:00,371 [translate_video] OCR frame 48/54: ts=235.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:15:15,485 [translate_video] OCR frame 49/54: ts=240.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:15:31,716 [translate_video] OCR frame 50/54: ts=245.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:15:46,266 [translate_video] OCR frame 51/54: ts=250.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:16:01,689 [translate_video] OCR frame 52/54: ts=255.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:16:17,988 [translate_video] OCR frame 53/54: ts=260.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:16:34,568 [translate_video] OCR frame 54/54: ts=265.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:16:51,564 [translate_video] OCR found 502 text regions total (after dedup)
+2026-07-04 19:16:51,626 [translate_video] Translating 289 unique text segments...
+2026-07-04 19:16:51,759 [translate_video]   0ハ- -> 0ha-
+2026-07-04 19:16:52,113 [translate_video]   0ハラ- -> 0hara-
+2026-07-04 19:16:52,114 [translate_video]   [UI] 0ハラー -> Halftone
+2026-07-04 19:16:52,114 [translate_video]   [UI] 0リラー -> Layer
+2026-07-04 19:16:53,218 [translate_video]   0リー -> 0 lee
+2026-07-04 19:16:53,349 [translate_video]   11 -> 11
+2026-07-04 19:16:53,490 [translate_video]   11+ -> 11+
+2026-07-04 19:16:53,635 [translate_video]   1g1; -> 1g1;
+2026-07-04 19:16:54,786 [translate_video]   Iゆき -> I Yuki
+2026-07-04 19:16:54,959 [translate_video]   JDy -> JDy
+2026-07-04 19:16:55,101 [translate_video]   JUy -> JUy
+2026-07-04 19:16:56,215 [translate_video]   Low Power ModeTurned Off -> Low Power ModeTurned Off
+2026-07-04 19:16:57,574 [translate_video]   lou・ -> lou・
+2026-07-04 19:16:57,729 [translate_video]   now -> now
+2026-07-04 19:16:57,880 [translate_video]   ou・ -> ou・
+2026-07-04 19:16:57,880 [translate_video]   [UI] ●サイズ -> Size
+2026-07-04 19:16:57,880 [translate_video]   [UI] ●サイズ・ -> Size
+2026-07-04 19:16:57,881 [translate_video]   [SKIP-GARBLED] ●サイフ、
+2026-07-04 19:16:57,881 [translate_video]   [SKIP-GARBLED] ●サイン・
+2026-07-04 19:16:58,058 [translate_video]   「いい．．． -> "good...
+2026-07-04 19:16:58,201 [translate_video]   「いや、 -> "no,
+2026-07-04 19:16:58,714 [translate_video]   「ここでは -> “Here
+2026-07-04 19:16:58,714 [translate_video]   [SKIP-GARBLED] 「ジージャー・
+2026-07-04 19:16:58,714 [translate_video]   [SKIP-GARBLED] 「フリー・ベッド・
+2026-07-04 19:16:58,866 [translate_video]   「一度、 -> "one time,
+2026-07-04 19:16:59,591 [translate_video]   「．．．い、いいよ -> "...It's fine.
+2026-07-04 19:16:59,832 [translate_video]   あなたが -> you
+2026-07-04 19:16:59,992 [translate_video]   ありがとう。 -> thank you.
+2026-07-04 19:17:00,126 [translate_video]   いいじゃ、 -> Okay then.
+2026-07-04 19:17:00,267 [translate_video]   いいじゃない -> Isn't it good?
+2026-07-04 19:17:00,948 [translate_video]   いいじゃねー -> That's fine
+2026-07-04 19:17:01,086 [translate_video]   いいぞー -> Good!
+2026-07-04 19:17:01,209 [translate_video]   いいや、 -> No, no.
+2026-07-04 19:17:01,360 [translate_video]   いっぱい．．． -> full. ．． ．．
+2026-07-04 19:17:01,492 [translate_video]   いつまでも -> forever
+2026-07-04 19:17:01,811 [translate_video]   いつも言っても、 -> As I always say,
+2026-07-04 19:17:01,943 [translate_video]   いつも．．． -> everytime. ．． ．．
+2026-07-04 19:17:02,077 [translate_video]   いや、 -> no,
+2026-07-04 19:17:02,544 [translate_video]   いや、すごい．．． -> No, that's amazing. ．． ．．
+2026-07-04 19:17:02,680 [translate_video]   いや、そういう -> No, that's it
+2026-07-04 19:17:02,829 [translate_video]   いや、そうだ。 -> No, that's right.
+2026-07-04 19:17:02,969 [translate_video]   いや、そうだ．．． -> No, that's right. ．． ．．
+2026-07-04 19:17:03,242 [translate_video]   いや、それは．．． -> No, that's it. ．． ．．
+2026-07-04 19:17:04,564 [translate_video]   いや、だって -> No, because
+2026-07-04 19:17:05,732 [translate_video]   いや、まだまだ -> No, not yet
+2026-07-04 19:17:05,876 [translate_video]   いやーえ -> No way
+2026-07-04 19:17:06,979 [translate_video]   いやーえーっ！？ -> Oh no! ?
+2026-07-04 19:17:07,129 [translate_video]   いやーる -> Yaaru
+2026-07-04 19:17:08,023 [translate_video]   いやーん、や、 -> Oh no, no.
+2026-07-04 19:17:08,148 [translate_video]   いやーん．．． -> Oh no. ．． ．．
+2026-07-04 19:17:08,302 [translate_video]   いやー名 -> Naa name
+2026-07-04 19:17:08,740 [translate_video]   いやー名前だ．．． -> No, it's a name. ．． ．．
+2026-07-04 19:17:08,878 [translate_video]   いやー名．．．！ -> No, name. ．． ．． !
+2026-07-04 19:17:09,018 [translate_video]   いや．．． -> no. ．． ．．
+2026-07-04 19:17:09,181 [translate_video]   いや．．．っ、 -> no. ．． ．． Oh,
+2026-07-04 19:17:09,695 [translate_video]   いーいやーっ！？ -> Oh no! ?
+2026-07-04 19:17:10,779 [translate_video]   う、うっ！！？その -> Ugh! ! ? the
+2026-07-04 19:17:11,263 [translate_video]   う、うんっ．．． -> Uh, yeah. ．． ．．
+2026-07-04 19:17:11,400 [translate_video]   う、うん．．． -> Uh, yeah. ．． ．．
+2026-07-04 19:17:12,573 [translate_video]   う、う．．．っ、う、 -> Uh, uh. ．． ．． Uh, uh,
+2026-07-04 19:17:12,704 [translate_video]   うぅぅぅ．．． -> Uuuuuu. ．． ．．
+2026-07-04 19:17:13,638 [translate_video]   うぅぅ．．． -> Woohoo. ．． ．．
+2026-07-04 19:17:14,673 [translate_video]   ううーん．．． -> Hmm. ．． ．．
+2026-07-04 19:17:14,817 [translate_video]   うっ．．．うっ、うっ -> Ugh. ．． ．． Ugh, ugh
+2026-07-04 19:17:14,959 [translate_video]   うっ．．．ったのは、 -> Ugh. ．． ．． What happened was
+2026-07-04 19:17:16,213 [translate_video]   うっ．．．っっと、思っ -> Ugh. ．． ．． Well, I thought
+2026-07-04 19:17:16,341 [translate_video]   うっ．．．っていうか、 -> Ugh. ．． ．． Or rather,
+2026-07-04 19:17:16,805 [translate_video]   うっ．．．っと、思って -> Ugh. ．． ．． That's what I thought.
+2026-07-04 19:17:17,409 [translate_video]   うっ．．．というわけでは -> Ugh. ．． ．． That's not to say
+2026-07-04 19:17:17,552 [translate_video]   うん、すごい．．． -> Yeah, amazing. ．． ．．
+2026-07-04 19:17:18,731 [translate_video]   うんと．．． -> Yeah. ．． ．．
+2026-07-04 19:17:18,874 [translate_video]   うん．．． -> Yeah. ．． ．．
+2026-07-04 19:17:19,023 [translate_video]   うん．．．へ -> Yeah. ．． ．． fart
+2026-07-04 19:17:19,972 [translate_video]   うーんですか？ -> Hmm?
+2026-07-04 19:17:20,124 [translate_video]   うーん！！ -> Hmm! !
+2026-07-04 19:17:20,269 [translate_video]   うーん． -> Hmm.
+2026-07-04 19:17:20,415 [translate_video]   うーん．．． -> Hmm. ．． ．．
+2026-07-04 19:17:21,527 [translate_video]   うーん．．．うーっすーーーっ -> Hmm. ．． ．． Uuuuuuuuuuuuuuuuuu
+2026-07-04 19:17:22,666 [translate_video]   う．．．うっ、うん． -> cormorant. ．． ．． Ugh, yeah.
+2026-07-04 19:17:22,991 [translate_video]   う．．．うっとも思っ -> cormorant. ．． ．． I feel disappointed
+2026-07-04 19:17:23,131 [translate_video]   こいつは、 -> This guy is
+2026-07-04 19:17:23,260 [translate_video]   こういう -> Like this
+2026-07-04 19:17:23,387 [translate_video]   こうして、 -> thus,
+2026-07-04 19:17:23,864 [translate_video]   こう一例では月だ。 -> One example of this is the moon.
+2026-07-04 19:17:23,994 [translate_video]   ここでは、 -> Here,
+2026-07-04 19:17:24,127 [translate_video]   ここに -> Here
+2026-07-04 19:17:24,259 [translate_video]   このため、 -> For this reason,
+2026-07-04 19:17:24,414 [translate_video]   これからは、 -> From now on,
+2026-07-04 19:17:24,566 [translate_video]   こんにち -> Hello
+2026-07-04 19:17:25,150 [translate_video]   さいらー、 -> Sailor,
+2026-07-04 19:17:25,321 [translate_video]   さすが、 -> As expected,
+2026-07-04 19:17:25,500 [translate_video]   さット -> Sat
+2026-07-04 19:17:25,633 [translate_video]   しかし、 -> but,
+2026-07-04 19:17:26,115 [translate_video]   しかし、こういう -> However, like this
+2026-07-04 19:17:26,251 [translate_video]   しかし、これから -> But from now on
+2026-07-04 19:17:26,717 [translate_video]   しかし、そういうと -> However, in that case
+2026-07-04 19:17:26,871 [translate_video]   しかし．．． -> but. ．． ．．
+2026-07-04 19:17:27,018 [translate_video]   じゃあ、 -> Well then,
+2026-07-04 19:17:27,168 [translate_video]   じゃあ．．． -> Well then. ．． ．．
+2026-07-04 19:17:27,305 [translate_video]   そうだな。 -> That's right.
+2026-07-04 19:17:27,432 [translate_video]   そして、 -> and,
+2026-07-04 19:17:27,590 [translate_video]   そのため、 -> Therefore,
+2026-07-04 19:17:27,733 [translate_video]   それで、 -> So,
+2026-07-04 19:17:27,874 [translate_video]   それでも、 -> nevertheless,
+2026-07-04 19:17:29,238 [translate_video]   それは、これからの -> That is the future
+2026-07-04 19:17:30,204 [translate_video]   そんなことは．．． -> That's not true. ．． ．．
+2026-07-04 19:17:31,310 [translate_video]   そんなころに -> Around that time
+2026-07-04 19:17:32,538 [translate_video]   たまーっ -> Tamaaaa
+2026-07-04 19:17:32,697 [translate_video]   だから、 -> that's why,
+2026-07-04 19:17:32,821 [translate_video]   だから．．． -> that's why. ．． ．．
+2026-07-04 19:17:32,954 [translate_video]   だけど -> But
+2026-07-04 19:17:33,092 [translate_video]   だけど、 -> But,
+2026-07-04 19:17:34,026 [translate_video]   だけど、これから -> But from now on
+2026-07-04 19:17:34,169 [translate_video]   ちょっと -> a little bit
+2026-07-04 19:17:35,026 [translate_video]   っ．．．っ、ぅぅ、 -> Wow. ．． ．． U-uuuuuuuuuuuuuuuuuuum
+2026-07-04 19:17:35,162 [translate_video]   っ．．．っ、んっ -> Wow. ．． ．． H-hmm
+2026-07-04 19:17:35,767 [translate_video]   っ．．．っ．っ、、っ -> Wow. ．． ．． Wow. Wow...
+2026-07-04 19:17:35,914 [translate_video]   っ．．．っ．っ、っ -> Wow. ．． ．． Wow. Wow!
+2026-07-04 19:17:36,729 [translate_video]   ついじゃー、 -> Now then,
+2026-07-04 19:17:37,161 [translate_video]   つまって、 -> In short,
+2026-07-04 19:17:38,324 [translate_video]   てっきりは、 -> Honestly,
+2026-07-04 19:17:39,356 [translate_video]   ですよー、 -> That's right,
+2026-07-04 19:17:40,262 [translate_video]   なんだか、 -> Somehow,
+2026-07-04 19:17:40,656 [translate_video]   はぁ〜っ -> Haa~
+2026-07-04 19:17:40,799 [translate_video]   はい．．． -> yes. ．． ．．
+2026-07-04 19:17:40,936 [translate_video]   ふぅ．．．っ -> Phew. ．． ．． Wow
+2026-07-04 19:17:41,061 [translate_video]   ふぅ．．．っ、 -> Phew. ．． ．． Oh,
+2026-07-04 19:17:41,213 [translate_video]   ふぅ．．．っ、っ、 -> Phew. ．． ．． Wow...
+2026-07-04 19:17:41,368 [translate_video]   ふっ．．． -> Huh. ．． ．．
+2026-07-04 19:17:41,502 [translate_video]   ふふっ．．． -> Hehe. ．． ．．
+2026-07-04 19:17:42,639 [translate_video]   へっ．．．っ -> Heh. ．． ．． Wow
+2026-07-04 19:17:43,882 [translate_video]   まずいよい -> First of all
+2026-07-04 19:17:44,024 [translate_video]   まずは、 -> First,
+2026-07-04 19:17:44,174 [translate_video]   また、 -> Also,
+2026-07-04 19:17:44,323 [translate_video]   またしたい -> I want to do it again
+2026-07-04 19:17:44,718 [translate_video]   まるじゃ -> Maruja
+2026-07-04 19:17:44,855 [translate_video]   まるで、 -> It's like,
+2026-07-04 19:17:46,053 [translate_video]   まるには、 -> To Maru,
+2026-07-04 19:17:46,200 [translate_video]   やっぱり -> on second thoughts
+2026-07-04 19:17:47,070 [translate_video]   やっ．．． -> Yay. ．． ．．
+2026-07-04 19:17:47,239 [translate_video]   わかった．．． -> Understood. ．． ．．
+2026-07-04 19:17:47,379 [translate_video]   わかって -> Understood
+2026-07-04 19:17:47,522 [translate_video]   わたしが -> I
+2026-07-04 19:17:47,670 [translate_video]   わたしは、 -> I
+2026-07-04 19:17:47,804 [translate_video]   わっ、 -> Wow,
+2026-07-04 19:17:48,228 [translate_video]   んっ、んっ．．． -> Hmm, hmm. ．． ．．
+2026-07-04 19:17:49,437 [translate_video]   んっ、ん．．． -> Hmm, hmm. ．． ．．
+2026-07-04 19:17:49,585 [translate_video]   んっ．．． -> Hmm. ．． ．．
+2026-07-04 19:17:49,734 [translate_video]   んーん．．． -> Hmm. ．． ．．
+2026-07-04 19:17:49,879 [translate_video]   んー．．． -> Hmm. ．． ．．
+2026-07-04 19:17:50,000 [translate_video]   ん．．．っ、んっ -> yeah. ．． ．． H-hmm
+2026-07-04 19:17:50,000 [translate_video]   [SKIP-GARBLED] アイドー・
+2026-07-04 19:17:50,001 [translate_video]   [UI] アクション -> Action
+2026-07-04 19:17:50,001 [translate_video]   [SKIP-GARBLED] アクン
+2026-07-04 19:17:50,001 [translate_video]   [SKIP-GARBLED] アクンン
+2026-07-04 19:17:50,001 [translate_video]   [SKIP-GARBLED] アリバー、
+2026-07-04 19:17:50,002 [translate_video]   [SKIP-GARBLED] アリバー・
+2026-07-04 19:17:50,002 [translate_video]   [SKIP-GARBLED] アロリ・ー・
+2026-07-04 19:17:50,002 [translate_video]   [SKIP-GARBLED] ウソィブ・
+2026-07-04 19:17:50,003 [translate_video]   [SKIP-GARBLED] ウソィン・
+2026-07-04 19:17:50,003 [translate_video]   [SKIP-GARBLED] ウソイン
+2026-07-04 19:17:50,003 [translate_video]   [SKIP-GARBLED] ウソゴン
+2026-07-04 19:17:50,004 [translate_video]   [SKIP-GARBLED] カスクムツ
+2026-07-04 19:17:50,004 [translate_video]   [SKIP-GARBLED] カスタムソー
+2026-07-04 19:17:50,004 [translate_video]   [SKIP-GARBLED] カスタムツー
+2026-07-04 19:17:50,506 [translate_video]   クィックというわけでは -> Not that it's quick
+2026-07-04 19:17:50,506 [translate_video]   [SKIP-GARBLED] グループケート．．．
+2026-07-04 19:17:50,506 [translate_video]   [UI] サイズの -> Size
+2026-07-04 19:17:50,996 [translate_video]   シールサプリの -> seal supplement
+2026-07-04 19:17:50,996 [translate_video]   [SKIP-GARBLED] シールサービス・
+2026-07-04 19:17:50,997 [translate_video]   [UI] ツール -> Tool
+2026-07-04 19:17:50,997 [translate_video]   [UI] ツールナフション -> Tool
+2026-07-04 19:17:50,997 [translate_video]   [UI] ツールフション -> Tool
+2026-07-04 19:17:51,126 [translate_video]   ノ浦正 -> Masa Noura
+2026-07-04 19:17:52,047 [translate_video]   ノ漸汪 -> No Graduation
+2026-07-04 19:17:53,424 [translate_video]   ノ？わチ -> of? I
+2026-07-04 19:17:53,558 [translate_video]   ノ？ホき -> of? Hoki
+2026-07-04 19:17:54,861 [translate_video]   ハメージかー -> Hamage?
+2026-07-04 19:17:54,861 [translate_video]   [SKIP-GARBLED] ハンーイナー
+2026-07-04 19:17:54,861 [translate_video]   [SKIP-GARBLED] ハ．．．トセ
+2026-07-04 19:17:54,862 [translate_video]   [SKIP-GARBLED] バッグリー・ベッド
+2026-07-04 19:17:54,862 [translate_video]   [SKIP-GARBLED] バラーメール・
+2026-07-04 19:17:55,000 [translate_video]   バレッ巴 -> Valet Tomoe
+2026-07-04 19:17:55,138 [translate_video]   バレト色 -> ballet color
+2026-07-04 19:17:56,072 [translate_video]   バレンドと -> with barend
+2026-07-04 19:17:57,157 [translate_video]   バレンドを -> Valendo
+2026-07-04 19:17:57,309 [translate_video]   バレ巴 -> Barre Tomoe
+2026-07-04 19:17:57,310 [translate_video]   [SKIP-GARBLED] バーグリーン
+2026-07-04 19:17:57,310 [translate_video]   [SKIP-GARBLED] バーフォーム
+2026-07-04 19:17:57,311 [translate_video]   [SKIP-GARBLED] バーフリー・バッグ・
+2026-07-04 19:17:57,311 [translate_video]   [SKIP-GARBLED] バーフリー・ベル・
+2026-07-04 19:17:57,311 [translate_video]   [SKIP-GARBLED] バーブリート
+2026-07-04 19:17:57,312 [translate_video]   [SKIP-GARBLED] バーブリー・ベッド
+2026-07-04 19:17:57,312 [translate_video]   [SKIP-GARBLED] バーブリー・ベッド・
+2026-07-04 19:17:58,321 [translate_video]   パジーンやー -> Pazine
+2026-07-04 19:17:59,287 [translate_video]   パソコンやー -> Computer
+2026-07-04 19:18:00,460 [translate_video]   パントを -> punt
+2026-07-04 19:18:00,601 [translate_video]   パント色 -> panto color
+2026-07-04 19:18:01,793 [translate_video]   フロルー1 -> Floroo 1
+2026-07-04 19:18:02,211 [translate_video]   ブリグでは、 -> In Brig.
+2026-07-04 19:18:02,212 [translate_video]   [SKIP-GARBLED] プリパー・
+2026-07-04 19:18:02,212 [translate_video]   [SKIP-GARBLED] プログラム
+2026-07-04 19:18:02,212 [translate_video]   [SKIP-GARBLED] プロハティ
+2026-07-04 19:18:02,212 [translate_video]   [UI] プロパティ -> Properties
+2026-07-04 19:18:02,213 [translate_video]   [SKIP-GARBLED] プロルティ
+2026-07-04 19:18:02,213 [translate_video]   [SKIP-GARBLED] プロル（ティ
+2026-07-04 19:18:02,213 [translate_video]   [SKIP-GARBLED] プロ／（ティ
+2026-07-04 19:18:02,214 [translate_video]   [SKIP-GARBLED] ベッド
+2026-07-04 19:18:02,214 [translate_video]   [UI] ベンツールオプション -> Pen Tool Options
+2026-07-04 19:18:02,214 [translate_video]   [UI] ベンツールオンョン -> Tool
+2026-07-04 19:18:02,214 [translate_video]   [SKIP-GARBLED] ベンーフクール
+2026-07-04 19:18:02,214 [translate_video]   [SKIP-GARBLED] ベースター・ベル・
+2026-07-04 19:18:02,214 [translate_video]   [UI] ペクターレイヤー -> Layer
+2026-07-04 19:18:02,215 [translate_video]   [SKIP-GARBLED] ヤンマガ
+2026-07-04 19:18:02,665 [translate_video]   リジマスターレストール -> Rigimaster restor
+2026-07-04 19:18:03,439 [translate_video]   リゾで明ってくれーと -> Let's clear it up with Lizzo
+2026-07-04 19:18:04,521 [translate_video]   リゾで視聴していました -> I was watching it on Rizzo.
+2026-07-04 19:18:05,440 [translate_video]   リゾを視聴していても、 -> Even if you're watching Lizzo.
+2026-07-04 19:18:05,946 [translate_video]   リゾテ狽．．．イナーと -> Rizote. ．． ．． Inar and
+2026-07-04 19:18:06,948 [translate_video]   リゾデ倶．．．イヤーと -> Resort. ．． ．． year and
+2026-07-04 19:18:08,061 [translate_video]   リゾマ男．．．イナーと -> Rizoma man. ．． ．． Inar and
+2026-07-04 19:18:08,184 [translate_video]   リゾマ男．．．イヤーし -> Rizoma man. ．． ．． year
+2026-07-04 19:18:08,184 [translate_video]   [SKIP-GARBLED] リラー
+2026-07-04 19:18:08,185 [translate_video]   [SKIP-GARBLED] リール
+2026-07-04 19:18:08,339 [translate_video]   レィヤー名 -> layer name
+2026-07-04 19:18:08,339 [translate_video]   [UI] レイヤー -> Layer
+2026-07-04 19:18:08,339 [translate_video]   [UI] レイヤーを -> Layer
+2026-07-04 19:18:08,339 [translate_video]   [UI] レイヤー名 -> Layer
+2026-07-04 19:18:08,483 [translate_video]   ロう』 -> Ro'
+2026-07-04 19:18:08,484 [translate_video]   [SKIP-GARBLED] ・サイン・
+2026-07-04 19:18:08,484 [translate_video]   [SKIP-GARBLED] ・ディーブクール
+2026-07-04 19:18:08,484 [translate_video]   [SKIP-GARBLED] ・ロマン
+2026-07-04 19:18:08,845 [translate_video]   ーーん．．． -> Hmmm. ．． ．．
+2026-07-04 19:18:10,151 [translate_video]   一ル -> one ru
+2026-07-04 19:18:10,294 [translate_video]   俺は．．． -> I am. ．． ．．
+2026-07-04 19:18:11,163 [translate_video]   俺は．．．うーんっ -> I am. ．． ．． Hmm
+2026-07-04 19:18:12,004 [translate_video]   [SKIP-GARBLED-TRANS] 傷つまみツールガプション -> Damage Mami Tool Gaption
+2026-07-04 19:18:12,134 [translate_video]   内色子を -> Uchiiroko
+2026-07-04 19:18:13,332 [translate_video]   前は．．． -> Before. ．． ．．
+2026-07-04 19:18:13,484 [translate_video]   口:』 -> mouth:"
+2026-07-04 19:18:13,484 [translate_video]   [UI] 嬢つまみツールオプション -> Tool Options
+2026-07-04 19:18:13,605 [translate_video]   来る．．． -> come. ．． ．．
+2026-07-04 19:18:13,731 [translate_video]   来る．．．！ -> come. ．． ．． !
+2026-07-04 19:18:14,321 [translate_video]   来日．．．！ -> Coming to Japan. ．． ．． !
+2026-07-04 19:18:15,150 [translate_video]   [SKIP-GARBLED-TRANS] 残しゴムツールガプション -> leftover rubber tool gaption
+2026-07-04 19:18:16,304 [translate_video]   [SKIP-GARBLED-TRANS] 決しゴムツールガプション -> Never rubber tool gaption
+2026-07-04 19:18:16,304 [translate_video]   [UI] 美白さん． -> White
+2026-07-04 19:18:16,912 [translate_video]   集団：：／ -> Group::/
+2026-07-04 19:18:17,037 [translate_video]   ！？うー -> ! ? Ugh
+2026-07-04 19:18:17,177 [translate_video]   ．．．。いい、いい -> ．． ．． ．． . Good, good
+2026-07-04 19:18:17,302 [translate_video]   ．．．い、い、や -> ．． ．． ．． No, no, no
+2026-07-04 19:18:18,603 [translate_video]   ．．．い、いいっ -> ．． ．． ．． N-Okay!
+2026-07-04 19:18:18,738 [translate_video]   ．．．い、いいっ、 -> ．． ．． ．． N-Okay.
+2026-07-04 19:18:20,047 [translate_video]   ．．．いいじゃあ -> ．． ．． ．． Okay then
+2026-07-04 19:18:20,197 [translate_video]   ．．．いや -> ．． ．． ．． no
+2026-07-04 19:18:20,332 [translate_video]   ．．．いや、そうだ -> ．． ．． ．． No, that's right
+2026-07-04 19:18:20,469 [translate_video]   ．．．いや、別に -> ．． ．． ．． No, not really
+2026-07-04 19:18:20,597 [translate_video]   ．．．うん。お -> ．． ．． ．． Yeah. oh
+2026-07-04 19:18:20,754 [translate_video]   ．．．うん．、お -> ．． ．． ．． Yeah. ,oh
+2026-07-04 19:18:20,903 [translate_video]   ．．．うー。せー -> ．． ．． ．． Ugh. See
+2026-07-04 19:18:21,025 [translate_video]   ．．．うーんだー -> ．． ．． ．． Hmmm
+2026-07-04 19:18:22,314 [translate_video]   ．．．うーんねー -> ．． ．． ．． Hmm.
+2026-07-04 19:18:22,442 [translate_video]   ．．．うーん！！ -> ．． ．． ．． Hmm! !
+2026-07-04 19:18:22,568 [translate_video]   ．．．けど -> ．． ．． ．． But
+2026-07-04 19:18:23,313 [translate_video]   ．．．こりー！！ -> ．． ．． ．． Cory! !
+2026-07-04 19:18:23,468 [translate_video]   ．．．そこまでは、 -> ．． ．． ．． Until then,
+2026-07-04 19:18:23,596 [translate_video]   ．．．そー -> ．． ．． ．． That's right
+2026-07-04 19:18:24,310 [translate_video]   ．．．なに、ほら、 -> ．． ．． ．． What, look?
+2026-07-04 19:18:25,326 [translate_video]   ．．．なんで、そうだ -> ．． ．． ．． Why, yes
+2026-07-04 19:18:25,464 [translate_video]   ．．．なんですけど、 -> ．． ．． ．． But,
+2026-07-04 19:18:25,591 [translate_video]   ．．．はい、すごい -> ．． ．． ．． Yes, amazing
+2026-07-04 19:18:26,454 [translate_video]   ．．．はい、別に -> ．． ．． ．． Yes, not really
+2026-07-04 19:18:26,586 [translate_video]   ．．．はっ、はっ -> ．． ．． ．． Ha, ha
+2026-07-04 19:18:27,531 [translate_video]   ．．．ふふっ、ぅ、 -> ．． ．． ．． Hehe, uh,
+2026-07-04 19:18:27,667 [translate_video]   ．．．まったく -> ．． ．． ．． At all
+2026-07-04 19:18:27,811 [translate_video]   ．．．んすごいっ、 -> ．． ．． ．． Wow, that’s amazing!
+2026-07-04 19:18:28,629 [translate_video]   ．．．んすー、３． -> ．． ．． ．． Hmmm, 3.
+2026-07-04 19:18:29,603 [translate_video]   ．．．んやっ、っ、 -> ．． ．． ．． Hmm...
+2026-07-04 19:18:29,604 [translate_video]   [SKIP-GARBLED] ．．．トピ
+2026-07-04 19:18:30,895 [translate_video]   ．．．ト色 -> ．． ．． ．． dark color
+2026-07-04 19:18:31,023 [translate_video]   ．．．ーん -> ．． ．． ．． -Hmm
+2026-07-04 19:18:31,163 [translate_video]   ．．．一人 -> ．． ．． ．． one person
+2026-07-04 19:18:31,293 [translate_video]   ．．．相対 -> ．． ．． ．． relative
+2026-07-04 19:18:32,290 [translate_video]   １０年 -> 10 years
+2026-07-04 19:18:33,125 [translate_video]   １１月１１日（火） -> Tuesday, November 11th
+2026-07-04 19:18:33,559 [translate_video]   １１月２９日（月） -> Monday, November 29th
+2026-07-04 19:18:33,559 [translate_video]   [SKIP-GARBLED] ？０＇：ァィ
+2026-07-04 19:18:34,365 [translate_video]   Ｂａｔｔｅｒｓｕｆｉｃｉｅｎｔｉｖｉｃｈａｒｅｅｄ． -> Batter sifici cient vichareed.
+2026-07-04 19:18:34,365 [translate_video]   [SKIP-GARBLED] ｒｕｒ：ー・
+2026-07-04 19:18:34,365 [translate_video] Skipped 51 garbled translations
+2026-07-04 19:18:34,374 [translate_video] Saved OCR data to /workspace/ocr_translations.json
+2026-07-04 19:18:34,378 [translate_video] Sampling background colors...
+2026-07-04 19:19:06,523 [translate_video] Sampled 405 background colors
+2026-07-04 19:19:06,606 [translate_video] Built 790 ffmpeg filters
+2026-07-04 19:19:06,606 [translate_video]   Filter 0: drawbox=x=1725:y=291:w=44:h=22:color=0x2b2b2b:t=fill:enable='between(t,0.00,16.50)'...
+2026-07-04 19:19:06,606 [translate_video]   Filter 1: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Layer':fontsize=12:fontcolor=white:bord...
+2026-07-04 19:19:06,606 [translate_video]   Filter 2: drawbox=x=1557:y=331:w=74:h=28:color=0x2b2b2b:t=fill:enable='between(t,0.00,6.50)'...
+2026-07-04 19:19:06,606 [translate_video]   Filter 3: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='layer name':fontsize=13:fontcolor=white...
+2026-07-04 19:19:06,606 [translate_video]   Filter 4: drawbox=x=199:y=501:w=40:h=22:color=0x2b2b2b:t=fill:enable='between(t,0.00,6.50)'...
+2026-07-04 19:19:06,606 [translate_video]   Filter 5: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Tool':fontsize=12:fontcolor=white:borde...
+2026-07-04 19:19:06,606 [translate_video]   Filter 6: drawbox=x=365:y=499:w=138:h=24:color=0x9db3ce:t=fill:enable='between(t,0.00,16.50)'...
+2026-07-04 19:19:06,606 [translate_video]   Filter 7: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='Pen Tool Options':fontsize=14:fontcolor...
+2026-07-04 19:19:06,606 [translate_video]   Filter 8: drawbox=x=387:y=717:w=38:h=26:color=0xd3d2d5:t=fill:enable='between(t,0.00,6.50)'...
+2026-07-04 19:19:06,606 [translate_video]   Filter 9: drawtext=fontfile='/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc':text='I Yuki':fontsize=12:fontcolor=white:bor...
+2026-07-04 19:19:06,606 [translate_video]   ... and 780 more
+2026-07-04 19:19:06,606 [translate_video] Multi-pass: 395 drawbox + 395 drawtext
+2026-07-04 19:19:06,606 [translate_video] Batching drawbox: 395 filters in batches
+2026-07-04 19:19:06,606 [translate_video] Batch 1: 80 filters
+2026-07-04 19:19:06,606 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:12,225 [translate_video] Rendered: /workspace/translated_part2.inpaint_batch0.mp4 (17.7 MB)
+2026-07-04 19:19:12,226 [translate_video] Batch 2: 80 filters
+2026-07-04 19:19:12,226 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:17,091 [translate_video] Rendered: /workspace/translated_part2.inpaint_batch80.mp4 (18.0 MB)
+2026-07-04 19:19:17,094 [translate_video] Batch 3: 80 filters
+2026-07-04 19:19:17,094 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:21,942 [translate_video] Rendered: /workspace/translated_part2.inpaint_batch160.mp4 (18.3 MB)
+2026-07-04 19:19:21,944 [translate_video] Batch 4: 80 filters
+2026-07-04 19:19:21,944 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:26,499 [translate_video] Rendered: /workspace/translated_part2.inpaint_batch240.mp4 (18.4 MB)
+2026-07-04 19:19:26,501 [translate_video] Batch 5: 75 filters
+2026-07-04 19:19:26,501 [translate_video] FFmpeg render: 75 filters
+2026-07-04 19:19:31,276 [translate_video] Rendered: /workspace/translated_part2.inpaint.mp4 (18.5 MB)
+2026-07-04 19:19:31,278 [translate_video] Batching drawtext: 395 filters in batches
+2026-07-04 19:19:31,278 [translate_video] Batch 1: 80 filters
+2026-07-04 19:19:31,278 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:36,084 [translate_video] Rendered: /workspace/translated_part2_batch0.mp4 (18.7 MB)
+2026-07-04 19:19:36,084 [translate_video] Batch 2: 80 filters
+2026-07-04 19:19:36,084 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:40,923 [translate_video] Rendered: /workspace/translated_part2_batch80.mp4 (18.8 MB)
+2026-07-04 19:19:40,925 [translate_video] Batch 3: 80 filters
+2026-07-04 19:19:40,925 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:45,777 [translate_video] Rendered: /workspace/translated_part2_batch160.mp4 (18.9 MB)
+2026-07-04 19:19:45,779 [translate_video] Batch 4: 80 filters
+2026-07-04 19:19:45,779 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:19:50,702 [translate_video] Rendered: /workspace/translated_part2_batch240.mp4 (19.2 MB)
+2026-07-04 19:19:50,705 [translate_video] Batch 5: 75 filters
+2026-07-04 19:19:50,706 [translate_video] FFmpeg render: 75 filters
+2026-07-04 19:19:55,662 [translate_video] Rendered: /workspace/translated_part2.mp4 (19.2 MB)
+2026-07-04 19:19:55,667 [translate_video] SUCCESS! Translated video: /workspace/translated_part2.mp4
