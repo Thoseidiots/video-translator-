@@ -1,0 +1,4 @@
+848M	/root/.cache/huggingface/hub/
+84K	/root/.cache/huggingface/xet/
+17M	/usr/local/lib/python3.11/site-packages/easyocr/
+754M	/usr/local/lib/python3.11/site-packages/torch/

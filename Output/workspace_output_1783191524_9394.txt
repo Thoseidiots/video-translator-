@@ -1,0 +1,13 @@
+def _escape_ffmpeg_text(text):
+    text = text.replace("\\", "\\\\\\\\")
+    text = text.replace(":", "\\\\:")
+    text = text.replace("{", "\\\\{")
+    text = text.replace("}", "\\\\}")
+    text = text.replace("'", "")
+    return text
+
+
+# ── Render with ffmpeg ─────────────────────────────────────────────────────
+def render_video(video_path, output_path, filters, video_info):
+    if not filters:
+        logger.warning("No filters to apply, copying video")

@@ -1,0 +1,15 @@
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc59.37.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+Press [q] to stop, [?] for help
+[Parsed_drawtext_52 @ 0x55f2f1fffc40] Both text and text file provided. Please provide only one
+[AVFilterGraph @ 0x55f2eea3b080] Error initializing filter 'drawtext' with args 'fontfile=/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc:text=mouth\\:":fontsize=16:fontcolor=white:borderw=2:bordercolor=black:x=1751:y=727:enable=between(t,34.80,45.20)'
+Error reinitializing filters!
+Failed to inject frame into filter network: Invalid argument
+Error while processing the decoded data for stream #0:0
+Conversion failed!
+
+2026-07-04 18:56:45,965 [translate_video] FAILED to render translated video

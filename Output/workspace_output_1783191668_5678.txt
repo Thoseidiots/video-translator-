@@ -1,0 +1,15 @@
+2026-07-04 19:00:42,462 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:47,321 [translate_video] Rendered: /workspace/translated_part1_batch80.mp4 (17.6 MB)
+2026-07-04 19:00:47,323 [translate_video] Batch 3: 80 filters
+2026-07-04 19:00:47,323 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:52,385 [translate_video] Rendered: /workspace/translated_part1_batch160.mp4 (17.6 MB)
+2026-07-04 19:00:52,388 [translate_video] Batch 4: 80 filters
+2026-07-04 19:00:52,388 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:00:57,348 [translate_video] Rendered: /workspace/translated_part1_batch240.mp4 (17.5 MB)
+2026-07-04 19:00:57,351 [translate_video] Batch 5: 80 filters
+2026-07-04 19:00:57,351 [translate_video] FFmpeg render: 80 filters
+2026-07-04 19:01:02,285 [translate_video] Rendered: /workspace/translated_part1_batch320.mp4 (17.5 MB)
+2026-07-04 19:01:02,288 [translate_video] Batch 6: 69 filters
+2026-07-04 19:01:02,288 [translate_video] FFmpeg render: 69 filters
+2026-07-04 19:01:07,190 [translate_video] Rendered: /workspace/translated_part1.mp4 (17.5 MB)
+2026-07-04 19:01:07,194 [translate_video] SUCCESS! Translated video: /workspace/translated_part1.mp4

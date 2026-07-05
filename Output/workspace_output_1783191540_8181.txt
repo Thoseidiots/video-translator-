@@ -1,0 +1,13 @@
+def _escape_ffmpeg_text(text):
+    # Strip characters that cause problems in ffmpeg drawtext
+    text = text.replace('"', '')    # Remove double quotes entirely
+    text = text.replace("\'", "")    # Remove single quotes entirely
+    text = text.replace("\\", " ")  # Replace backslashes with space
+    # Proper ffmpeg escaping for special chars
+    text = text.replace(":", "\\:")
+    text = text.replace("{", "\\{")
+    text = text.replace("}", "\\}")
+    text = text.replace(";", "\\;")
+    return text
+
+

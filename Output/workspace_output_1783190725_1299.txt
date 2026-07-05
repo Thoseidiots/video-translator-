@@ -1,0 +1,10 @@
+2026-07-04 18:44:38,651 [translate_video] OCR frame 29/68: ts=112.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:44:53,549 [translate_video] OCR frame 30/68: ts=116.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:45:08,215 [translate_video] OCR frame 31/68: ts=120.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:45:21,834 [translate_video] OCR frame 32/68: ts=124.0s

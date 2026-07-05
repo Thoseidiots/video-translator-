@@ -1,0 +1,15 @@
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 19:16:51,564 [translate_video] OCR found 502 text regions total (after dedup)
+2026-07-04 19:16:51,626 [translate_video] Translating 289 unique text segments...
+2026-07-04 19:16:51,759 [translate_video]   0ハ- -> 0ha-
+2026-07-04 19:16:52,113 [translate_video]   0ハラ- -> 0hara-
+2026-07-04 19:16:52,114 [translate_video]   [UI] 0ハラー -> Halftone
+2026-07-04 19:16:52,114 [translate_video]   [UI] 0リラー -> Layer
+2026-07-04 19:16:53,218 [translate_video]   0リー -> 0 lee
+2026-07-04 19:16:53,349 [translate_video]   11 -> 11
+2026-07-04 19:16:53,490 [translate_video]   11+ -> 11+
+2026-07-04 19:16:53,635 [translate_video]   1g1; -> 1g1;
+2026-07-04 19:16:54,786 [translate_video]   Iゆき -> I Yuki
+2026-07-04 19:16:54,959 [translate_video]   JDy -> JDy
+2026-07-04 19:16:55,101 [translate_video]   JUy -> JUy

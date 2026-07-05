@@ -1,0 +1,7 @@
+848M	/root/.cache/huggingface/
+1.3M	/root/.cache/mesa_shader_cache/
+164K	/root/.cache/yt-dlp/
+12K	/root/.cache/go-build/
+8.0K	/root/.cache/pipx/
+8.0K	/root/.cache/dconf/
+8.0K	/root/.cache/claude/

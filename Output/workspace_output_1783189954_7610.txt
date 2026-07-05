@@ -1,0 +1,10 @@
+14M	/workspace/videocomp_zd4c7s2nag.mp4
+14M	/workspace/videocomp_u22zueh7ej.mp4
+5.6M	/workspace/videocomp_soadcidkvo.mp4
+4.9M	/workspace/videocomp_xb9n6fgx6h.mp4
+328K	/workspace/summarized_conversations
+76K	/workspace/__pycache__
+52K	/workspace/translate_video_v2.py
+52K	/workspace/translate_video.py
+12K	/workspace/outputs
+4.0K	/workspace/todo.md

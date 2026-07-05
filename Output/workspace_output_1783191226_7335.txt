@@ -1,0 +1,15 @@
+2026-07-04 18:55:36,180 [translate_video]   [SKIP-GARBLED] ．．．アサートバン
+2026-07-04 18:55:36,181 [translate_video]   [SKIP-GARBLED] ．．．スタンジー
+2026-07-04 18:55:36,181 [translate_video]   [SKIP-GARBLED] ．．．トセ
+2026-07-04 18:55:36,181 [translate_video]   [SKIP-GARBLED] ．．．トピ
+2026-07-04 18:55:36,182 [translate_video]   [SKIP-GARBLED] ．．．ハナー、３．
+2026-07-04 18:55:36,182 [translate_video]   [SKIP-GARBLED] ．．．メッセージ
+2026-07-04 18:55:36,319 [translate_video]   ．．．ーん -> ．． ．． ．． -Hmm
+2026-07-04 18:55:36,460 [translate_video]   ．．．ーん． -> ．． ．． ．． Hmm.
+2026-07-04 18:55:36,590 [translate_video]   ．．．何さ -> ．． ．． ．． What?
+2026-07-04 18:55:36,730 [translate_video]   １１月１１日（土）、 -> Saturday, November 11th,
+2026-07-04 18:55:36,870 [translate_video]   １１月１１日（月）に -> On Monday, November 11th
+2026-07-04 18:55:37,021 [translate_video]   １１月２１日・ -> November 21st・
+2026-07-04 18:55:37,021 [translate_video] Skipped 70 garbled translations
+2026-07-04 18:55:37,032 [translate_video] Saved OCR data to /workspace/ocr_translations.json
+2026-07-04 18:55:37,035 [translate_video] Sampling background colors...

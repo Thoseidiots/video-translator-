@@ -1,0 +1,17 @@
+    "口:』": "mouth:\"",
+---
+        safe_text = _escape_ffmpeg_text(translated)
+        safe_font = font_path.replace("\\", "\\\\\\\\").replace(":", "\\\\:")
+
+        drawtext = (
+            f"drawtext=fontfile='{safe_font}'"
+            f":text='{safe_text}'"
+            f":fontsize={font_size}"
+            f":fontcolor=white"
+            f":borderw=2"
+            f":bordercolor=black"
+            f":x={x1}:y={y1}"
+--
+def _escape_ffmpeg_text(text):
+    text = text.replace("\\", "\\\\\\\\")
+    text = text.replace(":", "\\\\:")

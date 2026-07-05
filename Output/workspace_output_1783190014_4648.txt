@@ -1,0 +1,30 @@
+2026-07-04 18:34:13,803 [translate_video] OCR frame 6/8: ts=20.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:34:29,168 [translate_video] OCR frame 7/8: ts=24.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:34:44,957 [translate_video] OCR frame 8/8: ts=28.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:34:59,723 [translate_video] OCR found 55 text regions total (after dedup)
+2026-07-04 18:34:59,778 [translate_video] Translating 52 unique text segments...
+2026-07-04 18:34:59,778 [translate_video]   [UI] 0リラー -> Layer
+2026-07-04 18:34:59,915 [translate_video]   1g1+ -> 1g1+
+2026-07-04 18:35:00,055 [translate_video]   Iりの -> I Rino
+2026-07-04 18:35:00,055 [translate_video]   [UI] ●サイズ -> Size
+2026-07-04 18:35:00,056 [translate_video]   [SKIP-GARBLED] 「フリー・ベン
+2026-07-04 18:35:00,203 [translate_video]   いいじゃ、 -> Okay then.
+2026-07-04 18:35:00,345 [translate_video]   いいですか -> May I
+2026-07-04 18:35:00,487 [translate_video]   いや、いや -> No, no
+2026-07-04 18:35:00,630 [translate_video]   いやーむ「まさ -> Oh no, Masa
+2026-07-04 18:35:00,758 [translate_video]   いやー名 -> Naa name
+2026-07-04 18:35:00,885 [translate_video]   いや．．． -> no. ．． ．．
+2026-07-04 18:35:01,040 [translate_video]   うっ．．．っっと無理 -> Ugh. ．． ．． It's impossible
+2026-07-04 18:35:01,170 [translate_video]   うん。すごい．．． -> Yeah. amazing. ．． ．．
+2026-07-04 18:35:01,315 [translate_video]   えーと、 -> Well,
+2026-07-04 18:35:01,458 [translate_video]   じゃー -> Well then
+2026-07-04 18:35:01,580 [translate_video]   だから、これは -> So this is
+2026-07-04 18:35:01,711 [translate_video]   だけど、 -> But,
+2026-07-04 18:35:01,848 [translate_video]   っ．．．っ、ふっ、 -> Wow. ．． ．． Huh, huh,
+2026-07-04 18:35:01,992 [translate_video]   まるで、 -> It's like,

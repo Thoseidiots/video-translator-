@@ -1,0 +1,3 @@
+Could not find exact match, trying line-by-line approach
+Found function at lines 968-974
+SUCCESS: Fixed _escape_ffmpeg_text via line replacement

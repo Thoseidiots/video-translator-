@@ -1,0 +1,17 @@
+2026-07-04 18:33:01,888 [translate_video] Using font: /usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc
+2026-07-04 18:33:01,961 [translate_video] Video: {'width': 2026, 'height': 936, 'duration': 270.4, 'fps': 5.0}
+2026-07-04 18:33:02,103 [translate_video] Test clip: {'width': 2026, 'height': 936, 'duration': 30.4, 'fps': 5.0}
+2026-07-04 18:33:02,524 [translate_video] Extracted 8 OCR frames
+2026-07-04 18:33:02,524 [translate_video] After dedup: 8 frames to OCR
+2026-07-04 18:33:04,790 [translate_video] Initializing EasyOCR reader...
+2026-07-04 18:33:07,354 [translate_video] Initializing manga-ocr engine...
+2026-07-04 18:33:07.354 | INFO     | manga_ocr.ocr:__init__:16 - Loading OCR model from kha-white/manga-ocr-base
+2026-07-04 18:33:08.566 | INFO     | manga_ocr.ocr:__init__:28 - Using CPU
+2026-07-04 18:33:09.072 | INFO     | manga_ocr.ocr:__init__:35 - OCR ready
+2026-07-04 18:33:09,073 [translate_video] OCR frame 1/8: ts=0.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:33:18,763 [translate_video] OCR frame 2/8: ts=4.0s
+/usr/local/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+2026-07-04 18:33:28,555 [translate_video] OCR frame 3/8: ts=8.0s

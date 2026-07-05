@@ -1,0 +1,2 @@
+        safe_font = font_path.replace("\\", "\\\\\\\\").replace(":", "\\\\:")
+            f"drawtext=fontfile='{safe_font}'"
